@@ -1,0 +1,6 @@
+{
+  "name": "Portal PM RP São Paulo",
+  "description": "Portal institucional para a comunidade de roleplay PM RP São Paulo no Roblox e Discord. Acesso a editais, hierarquia de comando, academia policial e notícias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
